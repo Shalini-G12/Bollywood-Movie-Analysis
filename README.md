@@ -1,4 +1,4 @@
-# Bollywood-Movie-Analysis
+
 # Bollywood Movie Analysis
 
 This repository contains code for analyzing a dataset of Bollywood movies. The analysis explores various aspects of the dataset, including:
@@ -12,8 +12,8 @@ The code is written in Python and utilizes libraries like Pandas, NumPy, Matplot
 
 ## Files Included
 
-* `bollywood_movie_analysis.py`: This script contains the core code for data cleaning, analysis, and visualization.
-* `README.md`: This file (the one you are reading now) provides an overview of the project.
+* 'Bollywood Movie Analysis.ipynb': This script contains the core code for data cleaning, analysis, and visualization.
+* 'README.md': This file (the one you are reading now) provides an overview of the project.
 
 ## How to Run the Analysis
 
@@ -27,7 +27,7 @@ The script will perform the analysis, generate visualizations, and print the res
 
 ## Data Source
 
-The dataset used in this analysis is assumed to be the "Bollywood Movie Dataset (2023-1951)" available online (source not specified due to lack of information).
+The dataset used in this analysis is assumed to be the "Bollywood Movie Dataset (2023-1951)" available online (provided here).
 
 ## License
 
